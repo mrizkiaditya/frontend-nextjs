@@ -16,4 +16,4 @@ const page = () => {
   )
 }
 
-export default pagegit status
+export default page
